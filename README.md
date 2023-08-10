@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsleyj&label=Profile%20views&color=0e75b6&style=flat" alt="parsleyj" /> </p>
 
-- 🔭 I’m currently working on [Jadescript](github.com/aiagents/Jadescript)
+- 🔭 I’m currently working on [Jadescript](https://github.com/aiagents/Jadescript)
 
 - 🌱 I’m currently learning **Multi-agent Systems, React, Spring**
 
